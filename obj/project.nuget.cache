@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3VwFDc55HdE=",
+  "dgSpecHash": "0BZ9te/Apxg=",
   "success": true,
-  "projectFilePath": "/Users/sskiizens/Documents/DevSecOps_Course/tp2/tp2-infra/tp2-infra.csproj",
+  "projectFilePath": "/home/user1/DevSecOps/tp2-infra/tp2-infra.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

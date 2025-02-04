@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sskiizens/Documents/DevSecOps_Course/tp2/tp2-infra/tp2-infra.csproj": {}
+    "/home/user1/DevSecOps/tp2-infra/tp2-infra.csproj": {}
   },
   "projects": {
-    "/Users/sskiizens/Documents/DevSecOps_Course/tp2/tp2-infra/tp2-infra.csproj": {
+    "/home/user1/DevSecOps/tp2-infra/tp2-infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sskiizens/Documents/DevSecOps_Course/tp2/tp2-infra/tp2-infra.csproj",
+        "projectUniqueName": "/home/user1/DevSecOps/tp2-infra/tp2-infra.csproj",
         "projectName": "tp2-infra",
-        "projectPath": "/Users/sskiizens/Documents/DevSecOps_Course/tp2/tp2-infra/tp2-infra.csproj",
-        "packagesPath": "/Users/sskiizens/.nuget/packages/",
-        "outputPath": "/Users/sskiizens/Documents/DevSecOps_Course/tp2/tp2-infra/obj/",
+        "projectPath": "/home/user1/DevSecOps/tp2-infra/tp2-infra.csproj",
+        "packagesPath": "/home/user1/.nuget/packages/",
+        "outputPath": "/home/user1/DevSecOps/tp2-infra/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/sskiizens/.nuget/NuGet/NuGet.Config"
+          "/home/user1/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -62,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
